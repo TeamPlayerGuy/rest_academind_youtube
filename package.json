@@ -1,0 +1,28 @@
+{
+  "name": "rest_academind_youtube",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API tutorial project",
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "homepage": "https://github.com/teamplayerguy/rest_academind_youtube#readme",
+  "bugs": {
+    "url": "https://github.com/teamplayerguy/rest_academind_youtube/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamplayerguy/rest_academind_youtube.git"
+  },
+  "license": "ISC",
+  "author": "teamplayerguy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
